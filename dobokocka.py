@@ -28,7 +28,7 @@ else:
 print("--------------------/n")
 
 print("2es feladat")
-if 3 in dobasok:
+if 1 in dobasok:
         index = dobasok.index(1)
         print(f"A {index + 1}. dobás lett 1-es")
 else:
